@@ -1,4 +1,4 @@
-## Project-PasCam-3
+## Project PasCam 3
 > Camouflage your passwords. Increased security. Copy feature added. Spring 2020.
 
 ### Installation
